@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Data19</folder>
+	<filename>148.bmp</filename>
+	<path>D:\dataset\DIYD_Data\Data19\148.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Target</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>123</ymin>
+			<xmax>130</xmax>
+			<ymax>128</ymax>
+		</bndbox>
+	</object>
+</annotation>

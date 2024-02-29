@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Dim_5</folder>
+	<filename>021.bmp</filename>
+	<path>D:\dataset\TargetSim54\result\Dim_5\021.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Target</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>102</ymin>
+			<xmax>73</xmax>
+			<ymax>108</ymax>
+		</bndbox>
+	</object>
+</annotation>

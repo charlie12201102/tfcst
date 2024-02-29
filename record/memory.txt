@@ -1,0 +1,24 @@
+Tiny-vovnet: batch_size=16  3887MiB
+
+CSPVovnet-naon: batch_size=16   2191MiB   Params: 1.36 M     Flops:  3.07 GMac
+
+CSPDarknet-naon:batch_size=16  2261MiB   Params: 1.37 M     Flops:  3.07 GMac
+
+CSPDarknet-naon-DW: batch_size=16  2391MiB   Params: 773.96 k   Flops:  2.87 GMac
+
+VoVNet27: batch_size=16  3325MiB    Params: 3.54 M Flops:  7.26 GMac
+
+VoVNet39: batch_size=16  4797MiB    Params: 22.19 M Flops:  17.36 GMac
+
+VoVNet57: batch_size=16  5211MiB    Params: 36.23 M Flops:  21.15 GMac
+
+Resnet18: batch_size=16  2589MiB    Params: 11.69 M Flops:  6.47 GMac
+
+Resnet34: batch_size=16  2975MiB     Params: 21.72 M Flops:  10.25 GMac
+
+Resnet50: batch_size=16  4959MiB     Params: 24.2 M Flops:  11.3 GMac
+
+
+
+
+

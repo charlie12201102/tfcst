@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Misc_40</folder>
+	<filename>007.bmp</filename>
+	<path>D:\dataset\TargetSim54\result\Misc_40\007.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>160</width>
+		<height>160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Target</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>101</ymin>
+			<xmax>78</xmax>
+			<ymax>105</ymax>
+		</bndbox>
+	</object>
+</annotation>

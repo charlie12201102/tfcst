@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Data3</folder>
+	<filename>243.bmp</filename>
+	<path>D:\dataset\DIYD_Data\Data3\243.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Target</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>124</ymin>
+			<xmax>121</xmax>
+			<ymax>130</ymax>
+		</bndbox>
+	</object>
+</annotation>
